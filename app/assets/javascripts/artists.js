@@ -1,7 +1,10 @@
       //make ajax request to GET URL
   
-
+function clear_div() {
+     $('#chart').html("")
+}
   function getArtistID() {
+    clear_div();
      var artistName = $('#artist_name').val();
       var artistURL = "https://api.spotify.com/v1/search?q=" + artistName + "&type=artist";
     $.ajax({
