@@ -1,4 +1,5 @@
       //make ajax request to GET URL
+  
 
   function getArtistID() {
      var artistName = $('#artist_name').val();
