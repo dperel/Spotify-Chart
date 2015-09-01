@@ -1,5 +1,5 @@
 function makeGraphAlso(musicData){
-
+    $("#results").fadeIn();
     var data = musicData;
 
     var width = 420,
@@ -25,6 +25,14 @@ function makeGraphAlso(musicData){
         .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
 
     bar.append("rect")
+        .attr("width", function(d) { return x(d[1]); })
+        .attr("height", barHeight - 1)
+        .transition()
+        .duration(1000)
+        .attr("width", function(d) { return (x(d[1]-25)); })
+        .attr("height", barHeight - 1)
+        .transition()
+        .duration(500)
         .attr("width", function(d) { return x(d[1]); })
         .attr("height", barHeight - 1);
 

@@ -5,7 +5,7 @@ function startChart(){
 }
 
 function clear_div() {
-     $('#chart').html("")
+      $("#chart").html("");
 }
   function getArtistID() {
     clear_div();
@@ -16,7 +16,6 @@ function clear_div() {
       })
       .done(function( artistData ) {
        if (artistData.artists.items[0]) {
-        console.log(artistData)
           getTopTracks(artistData)
     }else{ 
           $('#results').html("No artist found")
