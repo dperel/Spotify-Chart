@@ -1,4 +1,4 @@
-function makeGraphAlso(musicData){
+function makeGraph(musicData){
     var data = musicData;
 
     var width = 420,

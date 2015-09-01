@@ -1,7 +1,7 @@
       //make ajax request to GET URL
 function startChart(){
   musicData = [["Enter",100],["An",95],["Artist",90],["To",85],["Get",65],["Started",100],["!!!",50],["!!!",55],["!!!!!",50],["!!!!!!",45]]
-  makeGraphAlso(musicData)
+  makeGraph(musicData)
 }
 
 function clear_div() {
@@ -37,7 +37,7 @@ function clear_div() {
           musicData.push(helperArr)
         }
         $('#results').html(artistData.artists.items[0].name)
-        makeGraphAlso(musicData);
+        makeGraph(musicData);
     })}
 
 $('#search-button').click(function(){
