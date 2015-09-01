@@ -4148,3 +4148,1885 @@ Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2
 
 
 Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 14:51:54 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 15:09:27 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (2.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 330ms (Views: 313.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-20f224d09f9b0eb1db9032ca212e641bdc5e83f2691c25e5698aaea6f5f743fa.css?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 15:09:28 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 15:10:16 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-20f224d09f9b0eb1db9032ca212e641bdc5e83f2691c25e5698aaea6f5f743fa.css?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 15:10:17 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 15:10:23 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 37ms (Views: 36.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/artists.self-20f224d09f9b0eb1db9032ca212e641bdc5e83f2691c25e5698aaea6f5f743fa.css?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 15:10:23 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 15:10:38 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-20f224d09f9b0eb1db9032ca212e641bdc5e83f2691c25e5698aaea6f5f743fa.css?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 15:10:38 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 15:10:40 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 28ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 15:10:40 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 17:53:05 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 72ms (Views: 71.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-de054469c9fd9e63e96f27a879cb1ec0d58c7ee674ae1b9a442f838ee2854017.css?body=1" for ::1 at 2015-08-31 17:53:05 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 17:53:05 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 17:58:56 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 73ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-ae29ab05173cc195b16aadb04fdc54d765e25e8dd22f2573f3e72b6f46a9403c.css?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 17:58:56 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 17:59:09 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 56ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/artists.self-378a431485ed99bd020f8f8e50f1a3b3ff0bcfaf6a9f21e1c61b3312621cc088.css?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 17:59:09 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 17:59:28 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 63ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-7dddc9cceabc93b60c5a5692529f55742c933aa3cb119144d7e9a2629ba1af29.css?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 17:59:28 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:02:31 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 60ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-66b01a9cd1189a83944e1c357c60d580fae1226ee181183db4301b5c61464a43.css?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:02:31 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:04:29 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 148ms (Views: 147.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-d9cf5cbd9834640a8769e8aac2f5db656692afa7484dae82bd8c99313768b44a.css?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:04:29 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:05:04 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 45ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-04e852195cebb8099145fc6798fa5c826dcc06a55b6fc0f9242f335d5b8fb4c6.css?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:05:04 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:05:46 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 71ms (Views: 69.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-4e1d734c1de4e6a867e743540f0bd1b2697fc0acea6c09a4de03caeb2eb28a1a.css?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:05:46 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:06:03 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 51ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:06:03 -0400
+
+
+Started GET "/assets/artists.self-d33d165e779ef87bc9f40ae3868fb234cb09b066813b960c86272278b491f72c.css?body=1" for ::1 at 2015-08-31 18:06:03 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:06:04 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:06:06 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:06:13 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 81ms (Views: 80.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-4f1d2f78427790ef0e7da5dcf289422944c93a2395422f76c36b3b1657b28f86.css?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:06:13 -0400
+
+
+Started GET "/spotify.png" for ::1 at 2015-08-31 18:06:15 -0400
+
+ActionController::RoutingError (No route matches [GET] "/spotify.png"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (24.9ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (123.8ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (76.4ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (149.7ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 18:06:27 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 59ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-d0042ee61d2145008a6c5fdab7f326d64c0699b6295bb07a099086aaf73c2d9b.css?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:06:27 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:06:31 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:06:42 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:07:09 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:09:42 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 54ms (Views: 53.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-8dec65798757fdb3260065d24604d4b07376b52ca13ed98c61d6831e532ee9bf.css?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:09:42 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:09:55 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 52.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/artists.self-f89c24bed40f1c5986fd1cc9d94bc9dec7df2e7dcea2580a598785aa199f739e.css?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:09:55 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:11:56 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-996b990f05a4f2bde071297b3e7406c68c9429e1032064b4d2f097bd8f4018f8.css?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:11:56 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:12:17 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-1dee846914e2464dc61e41c835a24ca7d5c88f71132143e66c4d7b1c67ad483d.css?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:12:17 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:12:39 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/artists.self-1dee846914e2464dc61e41c835a24ca7d5c88f71132143e66c4d7b1c67ad483d.css?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:12:39 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 18:13:35 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-1dee846914e2464dc61e41c835a24ca7d5c88f71132143e66c4d7b1c67ad483d.css?body=1" for ::1 at 2015-08-31 18:13:35 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 18:13:36 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:04:08 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 103ms (Views: 102.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-fbce4ba1e2d82a14fd5c256e93b7595fee6b590a838d5c6efb41e2e4c1e347ea.css?body=1" for ::1 at 2015-08-31 22:04:08 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 22:04:08 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:04:08 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:04:08 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:04:08 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:04:08 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:05:20 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 51ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-46705489d81ae57e26a4b9e3e301b3d3b3f110385e32c1b436bdfae4269fb5a0.css?body=1" for ::1 at 2015-08-31 22:05:20 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:05:20 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:05:21 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:06:17 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 75ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/artists.self-3fc3cd3b02d970502b45501e3dfa4cde3d4da854c6cc605cc792a46abaf87523.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:06:17 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:06:26 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 37ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:06:26 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:06:26 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:06:26 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:13:49 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 119ms (Views: 118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-a4b09474e288483900d4c9286fb0cc03431e34a8d2aec92c526635245ee87026.js?body=1" for ::1 at 2015-08-31 22:13:49 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:13:49 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:13:49 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:14:09 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 32ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-a4b09474e288483900d4c9286fb0cc03431e34a8d2aec92c526635245ee87026.js?body=1" for ::1 at 2015-08-31 22:14:09 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:14:09 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:14:09 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:20:08 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 102ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/artists.self-0d6c7668f6d9b8a9de3f687215887063e7c22354b47f10faa65acb4952e6de3a.js?body=1" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:20:08 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:24:37 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 149ms (Views: 148.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/artists.self-0d6c7668f6d9b8a9de3f687215887063e7c22354b47f10faa65acb4952e6de3a.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/onLoad.self-016be361f48a6e416f5f6998a631346d1bf28480b4e55d5e6094e07556b5eda1.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:24:37 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:25:37 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 116ms (Views: 115.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/onLoad.self-016be361f48a6e416f5f6998a631346d1bf28480b4e55d5e6094e07556b5eda1.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:25:38 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:25:57 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 117ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/onLoad.self-b2a9810e7fe5c7ddfeb8f1b16200b4b5e562f54e051e095d4ef06f8105903c5a.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:25:58 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:26:06 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 102ms (Views: 101.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/onLoad.self-f76925bff309a0e297585c9db7ca1060a8fca66ee21d5acf0e990240ba0cd694.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:26:06 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:26:12 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 146ms (Views: 144.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/onLoad.self-d14c4b39591cee6ceb038527ca6c0eb4b5639a466263cf55f7da5aa3a30a4781.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:26:13 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:26:18 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 131ms (Views: 130.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/onLoad.self-a06afb9c7869b878c2cdfb42fab9a48f5d22afa555df9e34a807f54478ac134f.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:26:18 -0400
+
+
+Started GET "/app/views/index.html" for ::1 at 2015-08-31 22:26:18 -0400
+
+ActionController::RoutingError (No route matches [GET] "/app/views/index.html"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.text.erb (22.5ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (53.1ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (133.1ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:26:42 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 129ms (Views: 128.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/onLoad.self-49d394002703f33e342a737d08a6ee520c92fe09e012533736d59d48ad8f5725.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:26:42 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:26:43 -0400
+
+
+Started GET "/index.html" for ::1 at 2015-08-31 22:26:43 -0400
+
+ActionController::RoutingError (No route matches [GET] "/index.html"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/davidperel/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.text.erb (15.1ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (36.1ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/davidperel/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (80.8ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:26:52 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 117ms (Views: 116.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:26:52 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:26:52 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:28:28 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 44ms (Views: 43.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:28:28 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:28:29 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:28:29 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 51ms (Views: 50.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:29:11 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 39ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:29:11 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:29:12 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:29:12 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 51ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:29:28 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 34ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/artists.self-c3b8199465630deae8d5bf6e932d8ecceb0d4e3e80def4dd0290b882d7bfa68c.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:29:28 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:29:29 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:29:29 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:29:54 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 103ms (Views: 102.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:29:54 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:29:54 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 49ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:31:08 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 56ms (Views: 55.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-11f2c50643af5f5d5b7c8c50354707fc46cd0efdafac3ef2225c97ae787cddfc.css?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:31:08 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:31:08 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:31:29 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 64ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/artists.self-2defa947307a3b758049279d159e6e6ee1ba4c92bf25a663af63872c2a01f540.css?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:31:29 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:31:29 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:31:50 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:31:50 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:31:50 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 42.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:33:17 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:33:17 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:33:17 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 40ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:33:18 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/artists.self-c9464765615aa9b01e093d0644facbe976517a93db9925380b717d91753b6d51.css?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:33:18 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:33:18 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-31 22:33:38 -0400
+Processing by ArtistsController#index as HTML
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 38ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/artists.self-2defa947307a3b758049279d159e6e6ee1ba4c92bf25a663af63872c2a01f540.css?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/artists.self-9bde5ae590847b12044cf4a856cfba5942f962c0eb677417aa2aef2a96384024.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/d3_graph.self-f110c54cc2a820dca0d3606d4390e9a556ec72cb96a0823b225a0de824c6d822.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/graph2.self-c30e1310bd5706271ad433c42c7ceb1b5e1c1cd3ee9311bebcdcc82823784ce6.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/onLoad.self-e7b920a95acad83cb0f202c73f3b72c5bafe34f7c201561a079c742a0620cd44.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/d3.v3.js" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/assets/spotify.png" for ::1 at 2015-08-31 22:33:38 -0400
+
+
+Started GET "/" for ::1 at 2015-08-31 22:33:38 -0400
+Processing by ArtistsController#index as */*
+  Rendered artists/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.0ms)

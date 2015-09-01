@@ -13,10 +13,6 @@
 
 .axis text {
   font: 10px sans-serif;
-}
-
-.axis text {
-  font: 10px sans-serif;
   fill: yellow;
 }
 
@@ -29,4 +25,35 @@
 
 .x.axis path {
   display: none;
+}
+
+div {
+  fill:blue;
+  padding: 10px;
+}
+
+g {
+  fill: red;
+}
+
+.outer {
+  background-image:url("/assets/spotify.png");
+  padding: 10px;
+    width:400px;
+  height:400px;
+}
+
+.middle { 
+  fill:green;
+  padding: 10px;
+    width:300px;
+  height:300px;
+  float:"left";
+}
+
+.inner { 
+  fill:yellow;
+  padding: 10px;
+  width:200px;
+  height:100px;
 }
