@@ -1,5 +1,4 @@
 function makeGraphAlso(musicData){
-    $("#results").fadeIn();
     var data = musicData;
 
     var width = 420,
@@ -16,7 +15,7 @@ function makeGraphAlso(musicData){
 
     var chart = d3.select(".chart")
         .attr("width", width)
-        .attr("height", barHeight * 12);
+        .attr("height", barHeight * 13);
 
     var bar = chart.selectAll("g")
         .data(data)
@@ -32,7 +31,7 @@ function makeGraphAlso(musicData){
         .attr("width", function(d) { return (x(d[1]-25)); })
         .attr("height", barHeight - 1)
         .transition()
-        .duration(500)
+        .duration(400)
         .attr("width", function(d) { return x(d[1]); })
         .attr("height", barHeight - 1);
 
@@ -50,10 +49,9 @@ function makeGraphAlso(musicData){
 
     chart.append("g")
         .attr("class", "x axis")
-        .attr("transform", "translate(0," + barHeight*10 + ")")
+        .attr("transform", "translate(3," + barHeight*10 + ")")
         .call(xAxis)
         .append("text")
-        // .attr("transform", "rotate(-90)")
         .attr("x", x(50))
         .attr("dy", ".71em")
         .style("text-anchor", "middle")

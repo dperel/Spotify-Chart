@@ -1,13 +1,17 @@
 <div class='outer'>
     <div class='inner'>
     <script src="/assets/d3.v3.js"> </script>
-    <label>Enter An Artist's Name</label>
-    <input id = "artist_name" type="text" name="artist_name"></input>
-    <br><br>
+    <label>GET AN ARTIST'S TOP TRACKS</label>
+    <p>
+    <input id = "artist_name" type="text" name="artist_name" value="Enter an Artist"></input>
+    </p>
+    <p>
     <input id="search-button" onclick="getArtistID();" type="submit" value="Search Spotify"></input>
-    <div id='results'></div>
-    <br>
+    </p>
+    <div id='results' class='results'></div>
+    <p>
     <svg class="chart" id="chart"></svg>
+    </p>
     </div>
 </div>
 
